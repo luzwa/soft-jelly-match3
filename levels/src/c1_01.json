@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "levelId": "c1_01",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "1-1 第一次交换",
+  "chapterId": "ch1",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "0000000",
+      "0111110",
+      "0111110",
+      "0111110",
+      "0111110",
+      "0111110",
+      "0000000"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 1,
+        "col": 1
+      },
+      {
+        "row": 1,
+        "col": 2
+      },
+      {
+        "row": 1,
+        "col": 3
+      },
+      {
+        "row": 1,
+        "col": 4
+      },
+      {
+        "row": 1,
+        "col": 5
+      }
+    ],
+    "exits": []
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": [
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 1,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 2,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 3,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 4,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 5,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 1,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 2,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 3,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 4,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 5,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 1,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 2,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 3,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 4,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 5,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 1,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 2,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 3,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 4,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 5,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 1,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 2,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 3,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 4,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 5,
+        "typeId": "jelly_fugu"
+      }
+    ]
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 12,
+  "goals": [
+    {
+      "type": "collect_piece",
+      "typeId": "jelly_fugu",
+      "count": 8
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      8000,
+      14000,
+      20000
+    ]
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "中央 5×5 固定开局：(2,3)↔(3,3) 让第 3 行三颗河豚相连（明显的第一步）；之后自由收集 8 个河豚",
+    "intendedDifficulty": "unrated",
+    "validationStatus": "structure_checked_bot_diagnosed_unplaytested",
+    "chapterRole": "teach",
+    "playerTip": "把相邻两颗果冻交换位置，连成 3 颗同色就会消除。试试把上方的河豚换下来！"
+  }
+}
