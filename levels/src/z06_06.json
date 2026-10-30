@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "levelId": "z06_06",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "256 · 糖霜回廊",
+  "chapterId": "z06",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 0,
+        "col": 0
+      },
+      {
+        "row": 0,
+        "col": 1
+      },
+      {
+        "row": 0,
+        "col": 2
+      },
+      {
+        "row": 0,
+        "col": 3
+      },
+      {
+        "row": 0,
+        "col": 4
+      },
+      {
+        "row": 0,
+        "col": 5
+      },
+      {
+        "row": 0,
+        "col": 6
+      }
+    ],
+    "exits": []
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": [
+      {
+        "layer": "overlay",
+        "row": 0,
+        "col": 6,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 1,
+        "col": 1,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 1,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 2,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 2,
+        "col": 5,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 3,
+        "col": 6,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 4,
+        "col": 1,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 4,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 6,
+        "col": 5,
+        "typeId": "gummy_tie",
+        "layers": 1
+      }
+    ]
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fig",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 26,
+  "goals": [
+    {
+      "type": "clear_obstacle",
+      "typeId": "gummy_tie",
+      "scope": "all"
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      8000,
+      14000,
+      20000
+    ]
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "绑带网格 zone6 | role=relax | seed=20321655",
+    "intendedDifficulty": "easy",
+    "validationStatus": "structure_checked_unplaytested",
+    "chapterRole": "relax",
+    "curve": "royal_match_500_v1",
+    "zone": "z06"
+  }
+}

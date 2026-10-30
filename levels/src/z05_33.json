@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "levelId": "z05_33",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "233 · 十字枷",
+  "chapterId": "z05",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "1110111",
+      "1111111",
+      "1111111",
+      "0000000",
+      "1111111",
+      "1111111",
+      "1110111"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 0,
+        "col": 0
+      },
+      {
+        "row": 0,
+        "col": 1
+      },
+      {
+        "row": 0,
+        "col": 2
+      },
+      {
+        "row": 0,
+        "col": 4
+      },
+      {
+        "row": 0,
+        "col": 5
+      },
+      {
+        "row": 0,
+        "col": 6
+      },
+      {
+        "row": 1,
+        "col": 3
+      },
+      {
+        "row": 4,
+        "col": 0
+      },
+      {
+        "row": 4,
+        "col": 1
+      },
+      {
+        "row": 4,
+        "col": 2
+      },
+      {
+        "row": 4,
+        "col": 3
+      },
+      {
+        "row": 4,
+        "col": 4
+      },
+      {
+        "row": 4,
+        "col": 5
+      },
+      {
+        "row": 4,
+        "col": 6
+      }
+    ],
+    "exits": []
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": [
+      {
+        "layer": "underlay",
+        "row": 0,
+        "col": 5,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 0,
+        "col": 6,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 1,
+        "col": 0,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 1,
+        "col": 6,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 2,
+        "col": 0,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 2,
+        "col": 4,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 4,
+        "col": 3,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 4,
+        "col": 5,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 4,
+        "col": 6,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 3,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 5,
+        "typeId": "cookie_crate",
+        "hp": 2
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 3,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 0,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 3,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 5,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 0,
+        "col": 5,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 1,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 2,
+        "col": 0,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 4,
+        "col": 2,
+        "typeId": "gummy_tie",
+        "layers": 1
+      }
+    ]
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fig",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 24,
+  "goals": [
+    {
+      "type": "clear_underlay",
+      "typeId": "frosting_pad",
+      "scope": "all"
+    },
+    {
+      "type": "clear_obstacle",
+      "typeId": "cookie_crate",
+      "scope": "all"
+    },
+    {
+      "type": "clear_obstacle",
+      "typeId": "gummy_tie",
+      "scope": "all"
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      8000,
+      14000,
+      20000
+    ]
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "异形盘 islands zone5 | role=normal | seed=20314267",
+    "intendedDifficulty": "normal",
+    "validationStatus": "structure_checked_unplaytested",
+    "chapterRole": "normal",
+    "curve": "royal_match_500_v1",
+    "zone": "z05"
+  }
+}
