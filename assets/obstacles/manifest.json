@@ -1,0 +1,65 @@
+{
+  "status": "PLACEHOLDER",
+  "note": "阶段A/B 占位美术：程序化绘制（js/obstacle_art.js），奶油/粉彩风格，非最终资源；层数/耐久/绑带靠结构区分（双层台阶、丝带/盖子/裂纹、交叉绑带＋结），不只靠颜色。游戏与编辑器运行时直接调用同一绘制代码，PNG 仅供评审与交接。",
+  "source": "js/obstacle_art.js",
+  "generatedBy": "tools/export_obstacle_png.js",
+  "size": 256,
+  "assets": {
+    "frosting_pad": {
+      "layer": "underlay",
+      "states": {
+        "layers_2": "frosting_pad_layers_2.png",
+        "layers_1": "frosting_pad_layers_1.png"
+      },
+      "status": "placeholder"
+    },
+    "cookie_crate": {
+      "layer": "occupant",
+      "states": {
+        "hp_3": "cookie_crate_hp_3.png",
+        "hp_2": "cookie_crate_hp_2.png",
+        "hp_1": "cookie_crate_hp_1.png"
+      },
+      "status": "placeholder"
+    },
+    "spawner": {
+      "layer": "terrain",
+      "states": {
+        "default": "spawner_marker.png"
+      },
+      "status": "placeholder"
+    },
+    "gummy_tie": {
+      "layer": "overlay",
+      "stage": "B",
+      "states": {
+        "tied": "gummy_tie_tied.png",
+        "releasing": "gummy_tie_releasing.png"
+      },
+      "goalIcon": "goal_icon_gummy_tie.png",
+      "editorBrush": "same drawing (editor palette)",
+      "status": "placeholder"
+    },
+    "delivery_basket": {
+      "layer": "occupant",
+      "stage": "B",
+      "states": {
+        "idle": "delivery_basket_idle.png",
+        "landing": "delivery_basket_landing.png"
+      },
+      "goalIcon": "goal_icon_delivery_basket.png",
+      "editorBrush": "same drawing (editor palette)",
+      "status": "placeholder"
+    },
+    "exit": {
+      "layer": "terrain",
+      "stage": "B",
+      "states": {
+        "marker": "exit_marker.png"
+      },
+      "editorBrush": "same drawing (editor palette)",
+      "status": "placeholder"
+    }
+  },
+  "preview": "contact_sheet_cell54.png"
+}

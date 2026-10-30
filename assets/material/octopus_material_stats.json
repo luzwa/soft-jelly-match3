@@ -1,0 +1,22 @@
+{
+ "opaque_px": 101605,
+ "spec_px": 13523,
+ "spec_frac": 0.1331,
+ "L_p50": 0.472,
+ "L_p99": 0.919,
+ "L_after_p99": 0.615,
+ "head_left_right_L_before": [
+  0.501,
+  0.428
+ ],
+ "head_left_right_L_after": [
+  0.471,
+  0.437
+ ],
+ "lowfreq_shading_range": [
+  0.397,
+  0.546
+ ],
+ "thickness_max_px": 118.0,
+ "tentacle_tip_thickness_px_p10": 12.3
+}
