@@ -1,0 +1,103 @@
+{
+ "val": 55,
+ "seed": 777,
+ "grid": [
+  "b j s s g j g",
+  "f j b s b| b g*",
+  "j s f f j s b",
+  "s j f s b b f",
+  "f f b f s b b",
+  "b b s j b f b",
+  "g s f b j f s"
+ ],
+ "moves": [
+  [
+   2,
+   6,
+   3,
+   6
+  ],
+  [
+   3,
+   2,
+   4,
+   2
+  ],
+  [
+   4,
+   6,
+   5,
+   6
+  ],
+  [
+   5,
+   1,
+   5,
+   2
+  ]
+ ],
+ "acts": [
+  {
+   "waves": 2,
+   "natural": 2,
+   "combo": 0,
+   "comboKey": null,
+   "skill": {
+    "before": 0,
+    "n": 1,
+    "bonus": 0,
+    "qualified": true,
+    "broke": false
+   },
+   "score": 2250
+  },
+  {
+   "waves": 1,
+   "natural": 1,
+   "combo": 0,
+   "comboKey": null,
+   "skill": {
+    "before": 1,
+    "n": 2,
+    "bonus": 300,
+    "qualified": true,
+    "broke": false
+   },
+   "score": 900
+  },
+  {
+   "waves": 5,
+   "natural": 1,
+   "combo": 1,
+   "comboKey": "line_area",
+   "skill": {
+    "before": 2,
+    "n": 3,
+    "bonus": 700,
+    "qualified": true,
+    "broke": false
+   },
+   "score": 9950
+  }
+ ],
+ "final": {
+  "won": true,
+  "actionTotal": 13850,
+  "winBonus": 2000,
+  "movesLeft": 16,
+  "movesBonus": 8000,
+  "finalScore": 23850,
+  "scoreVersion": "jelly_score_v1",
+  "maxCascade": 5,
+  "maxStreak": 3,
+  "naturalSpecialCount": 4,
+  "activeComboCount": 1,
+  "delivered": 0,
+  "assist": {
+   "hammer": 0,
+   "swap": 0,
+   "shuffle": 0
+  },
+  "assisted": false
+ }
+}

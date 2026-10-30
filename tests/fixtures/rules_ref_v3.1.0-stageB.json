@@ -1,0 +1,142 @@
+{
+ "source": "/workspace/jelly/game_v3b",
+ "when": "2026-10-10T10:20:20.887Z",
+ "hashes": {
+  "verify_01_baseline": [
+   "89c9060a:df55782b",
+   "681386e4:e244a893",
+   "bd412cac:616ece3b",
+   "33ce0a97:94f03b77",
+   "3a5323e1:ad17ae72",
+   "2c7b0a83:8112c45f"
+  ],
+  "verify_02_double_frosting": [
+   "cc8a464c:4b9630f5",
+   "227d04a:fbbf5478",
+   "dc3bfc03:259cd919",
+   "68bcab8b:381834f1",
+   "ccfb24dd:a7315a52",
+   "b9a3b7e9:3a796e8e"
+  ],
+  "verify_03_crate_adjacent": [
+   "7935b55d:85c2ead5",
+   "feb631fe:581c5e9e",
+   "2fe47f52:c962d25a",
+   "fb0effc7:f633e986",
+   "d5a58ee3:11d63142",
+   "9d325edc:76b19b90"
+  ],
+  "verify_04_overlap_dedupe": [
+   "393fa9b2:dde7f0d9",
+   "4adfc3f0:25799cc5",
+   "2faa39ef:d3875326",
+   "1e9dbf9:e9eef46d",
+   "77a93029:b209030a",
+   "b84c0aa0:7d5a84fd"
+  ],
+  "verify_05_last_move": [
+   "3fc10508:2947cbf4",
+   "f94e43a7:be4c6831",
+   "bd9c8d5f:1aceb60d",
+   "e462324a:b695e40a",
+   "c7456508:9ee28eaf",
+   "2dd33540:31709433"
+  ],
+  "verify_06_segments": [
+   "6cf9a6e4:c7cb0cd",
+   "ca64069d:934bfb3c",
+   "acf17580:ba41a6a4",
+   "461012ae:b0db5e53",
+   "d9ea00d7:3a3ad2ad",
+   "ce279b25:300d414b"
+  ],
+  "legacy_01": [
+   "bfe3ecaa:75478ecd",
+   "9df45656:8839d144",
+   "78870e29:ccbd348b",
+   "1abbe6b0:f3647823",
+   "1927d3be:1222512a",
+   "38cbe84b:129fe07d"
+  ],
+  "legacy_02": [
+   "1f3701c5:b45af8bf",
+   "c4317f5d:94b7a3ea",
+   "66571401:87ed729f",
+   "9bca9cea:b2560b50",
+   "780349f9:f0eceb42",
+   "fe709064:cc7e024b"
+  ],
+  "legacy_03": [
+   "f7750fb1:ee81d5c2",
+   "703d2fc2:1e46cdc",
+   "85a906ac:2599c1f1",
+   "30987655:d7e590b2",
+   "7f30fa67:43960f7f",
+   "c15c45e4:4f65eb49"
+  ],
+  "vb_01_ties": [
+   "146d37a5:ca5e85ee",
+   "6a2207d3:9579aed6",
+   "63f93486:4079156b",
+   "c44ce755:75b3b2d3",
+   "4ae5703c:a2272666",
+   "1e22520a:69a852ee"
+  ],
+  "vb_02_delivery": [
+   "f285accf:26c384a3",
+   "20fd3b28:68ef26c5",
+   "51bd9858:f75db63d",
+   "1658b556:1275e7ed",
+   "273d2952:bdb55d6f",
+   "689d1296:b3b84849"
+  ],
+  "vb_03_rainbow_ties": [
+   "5e35581f:3a0448a",
+   "d3e204df:595081a1",
+   "55de797a:96cb5e8a",
+   "862217f0:d9f2573",
+   "689d060d:e82c1879",
+   "17b3d3b1:54f894c"
+  ],
+  "vb_04_anchor": [
+   "7cce2c04:cd5f4292",
+   "609b5bae:c36f11f6",
+   "5ae7a6c3:3716f33f",
+   "54d30834:ca929e9e",
+   "8288ae92:d32c6d04",
+   "e4ef87f4:6025e9e5"
+  ],
+  "vb_05_layers": [
+   "58fb1c48:7d1fa195",
+   "28b94716:521d22bf",
+   "d21686b:b27921c6",
+   "59c8446c:f79b2d6e",
+   "2c547c3b:67b5de87",
+   "b9c3eb40:6a96fcb0"
+  ],
+  "vb_06_board_attack": [
+   "b5fa3d9f:9c724bc5",
+   "18a75a5f:c3bfd765",
+   "cdd8b705:68eea907",
+   "768da961:16c78a8c",
+   "3ec96e41:93dc4a3c",
+   "3790769d:6cb2e430"
+  ],
+  "b_tie_intro": [
+   "8d60de75:41485469",
+   "6038017d:446eadd6",
+   "80e52efa:badc1231",
+   "719ad438:9dbf486b",
+   "54f3f649:3517407f",
+   "6daa459e:41d67416"
+  ],
+  "b_deliver_intro": [
+   "c0b1ad73:7ac9f1f0",
+   "1a70f0d9:2ae469fa",
+   "8e820e34:a1e4f7fd",
+   "4cfbd7ca:158dd74a",
+   "6e8cc4ac:59329344",
+   "ae1ead9f:1de39fa9"
+  ]
+ }
+}
