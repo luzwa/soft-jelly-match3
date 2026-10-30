@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "levelId": "c1_02",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "1-2 两个目标",
+  "chapterId": "ch1",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "0000000",
+      "0111110",
+      "0111110",
+      "0111110",
+      "0111110",
+      "0111110",
+      "0000000"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 1,
+        "col": 1
+      },
+      {
+        "row": 1,
+        "col": 2
+      },
+      {
+        "row": 1,
+        "col": 3
+      },
+      {
+        "row": 1,
+        "col": 4
+      },
+      {
+        "row": 1,
+        "col": 5
+      }
+    ],
+    "exits": []
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": []
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 14,
+  "goals": [
+    {
+      "type": "collect_piece",
+      "typeId": "jelly_fugu",
+      "count": 8
+    },
+    {
+      "type": "collect_piece",
+      "typeId": "jelly_bear",
+      "count": 8
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      8000,
+      14000,
+      20000
+    ]
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "中央 5×5 随机开局：练习兼顾两个收集目标",
+    "intendedDifficulty": "unrated",
+    "validationStatus": "structure_checked_bot_diagnosed_unplaytested",
+    "chapterRole": "teach",
+    "playerTip": "这关有两个目标，都要收集齐才算过关。"
+  }
+}
