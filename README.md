@@ -13,3 +13,9 @@ node tools/make_levels_c.js && node tools/make_levels.js
 ```
 
 Owner: Lily · 代码：New Bot（2026-10-31）
+
+## 500 levels
+```bash
+node tools/make_levels_500.js && node tools/make_levels.js
+```
+See docs/LEVELS_500_STATUS.md

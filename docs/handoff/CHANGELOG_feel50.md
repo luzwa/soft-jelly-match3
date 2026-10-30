@@ -23,3 +23,12 @@
 - 工作副本 `work_feel50`
 - 云盘：设计文案 + 优化记录 + 完整快照
 - GitHub：`luzwa/soft-jelly-match3`
+
+## feel500（2026-10-31）
+### 关卡
+- 正式关 **50 → 500**
+- 新增 `tools/make_levels_500.js`：Z2–Z10 模板生成（霜/箱/绑/送达/异形 remix）
+- `tools/make_levels.js` FORMAL 接入 `z02`–`z10`
+- 文档：`docs/LEVELS_500_CURVE.md`、`docs/LEVELS_500_STATUS.md`
+- 抽样 bot：`levels/bot_report_sample500.json`（74 关）
+- 发布：`releases/Jelly_Match3_feel500.tar.gz`

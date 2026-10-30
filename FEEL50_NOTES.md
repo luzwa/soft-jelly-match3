@@ -28,3 +28,8 @@ python3 -m http.server 8765
 ```bash
 node tools/make_levels_c.js && node tools/make_levels.js
 ```
+
+## 500 关扩展（2026-10-31）
+- 正式关已扩到 **500**：Z1=原 ch1–ch8（50），Z2–Z10=`z02`–`z10`（各 50）
+- 重生：`node tools/make_levels_500.js && node tools/make_levels.js`
+- 详见 `docs/LEVELS_500_CURVE.md` / `docs/LEVELS_500_STATUS.md`
