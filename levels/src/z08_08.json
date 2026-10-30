@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "levelId": "z08_08",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "358 · 综合试炼",
+  "chapterId": "z08",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "0011100",
+      "0011100",
+      "0011100",
+      "0011100",
+      "0011100",
+      "0011100",
+      "0011100"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 0,
+        "col": 2
+      },
+      {
+        "row": 0,
+        "col": 3
+      },
+      {
+        "row": 0,
+        "col": 4
+      }
+    ],
+    "exits": []
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": [
+      {
+        "layer": "underlay",
+        "row": 0,
+        "col": 2,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 0,
+        "col": 4,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 1,
+        "col": 3,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 1,
+        "col": 4,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 2,
+        "col": 3,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 2,
+        "col": 4,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 3,
+        "col": 3,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 3,
+        "col": 4,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 4,
+        "col": 2,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 4,
+        "col": 4,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 5,
+        "col": 2,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 5,
+        "col": 3,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 5,
+        "col": 4,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 6,
+        "col": 3,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 2,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 2,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 2,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 3,
+        "typeId": "cookie_crate",
+        "hp": 2
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 2,
+        "typeId": "cookie_crate",
+        "hp": 2
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 4,
+        "typeId": "cookie_crate",
+        "hp": 2
+      },
+      {
+        "layer": "overlay",
+        "row": 0,
+        "col": 2,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 0,
+        "col": 3,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 0,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 1,
+        "col": 3,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 1,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 2,
+        "col": 3,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 2,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 4,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 5,
+        "col": 3,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 5,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 6,
+        "col": 3,
+        "typeId": "gummy_tie",
+        "layers": 1
+      }
+    ]
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fig",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 24,
+  "goals": [
+    {
+      "type": "clear_underlay",
+      "typeId": "frosting_pad",
+      "scope": "all"
+    },
+    {
+      "type": "clear_obstacle",
+      "typeId": "cookie_crate",
+      "scope": "all"
+    },
+    {
+      "type": "clear_obstacle",
+      "typeId": "gummy_tie",
+      "scope": "all"
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      8000,
+      14000,
+      20000
+    ]
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "异形盘 narrow zone8 | role=normal | seed=20341863",
+    "intendedDifficulty": "normal",
+    "validationStatus": "structure_checked_unplaytested",
+    "chapterRole": "normal",
+    "curve": "royal_match_500_v1",
+    "zone": "z08"
+  }
+}
