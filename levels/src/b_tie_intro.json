@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "levelId": "b_tie_intro",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "绑带教学",
+  "chapterId": "chapter_b",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 0,
+        "col": 0
+      },
+      {
+        "row": 0,
+        "col": 1
+      },
+      {
+        "row": 0,
+        "col": 2
+      },
+      {
+        "row": 0,
+        "col": 3
+      },
+      {
+        "row": 0,
+        "col": 4
+      },
+      {
+        "row": 0,
+        "col": 5
+      },
+      {
+        "row": 0,
+        "col": 6
+      }
+    ],
+    "exits": []
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": [
+      {
+        "layer": "overlay",
+        "row": 2,
+        "col": 1,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 2,
+        "col": 5,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 4,
+        "col": 3,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 5,
+        "col": 0,
+        "typeId": "gummy_tie",
+        "layers": 1
+      }
+    ]
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fig",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 24,
+  "goals": [
+    {
+      "type": "clear_obstacle",
+      "typeId": "gummy_tie",
+      "scope": "all"
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      19300,
+      24100,
+      38200
+    ],
+    "scoreVersion": "jelly_score_v1",
+    "starsBasis": "goal_greedy wins n=98, seeds 1–100",
+    "starsMethod": "bot_greedy_quantiles_v1",
+    "starsStatus": "provisional_bot_derived"
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "绑带 4：被绑的果冻不能移动，但移动旁边的果冻让它参与匹配即可解除（不是“在旁边三消”）",
+    "intendedDifficulty": "unrated",
+    "validationStatus": "structure_checked_unplaytested"
+  }
+}
