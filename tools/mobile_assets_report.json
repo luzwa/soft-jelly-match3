@@ -1,0 +1,118 @@
+{
+ "jelly_squid": [
+  169947,
+  42730
+ ],
+ "jelly_fugu": [
+  263421,
+  56767
+ ],
+ "jelly_jellyfish": [
+  243990,
+  58367
+ ],
+ "jelly_octopus": [
+  248141,
+  56153
+ ],
+ "jelly_bear": [
+  251682,
+  55577
+ ],
+ "jelly_fig": [
+  332680,
+  68026
+ ],
+ "octo_base": [
+  164963,
+  52772
+ ],
+ "octo_mat": [
+  62329,
+  27360
+ ],
+ "assets/ui/icons/icon_back.png": [
+  54172,
+  23789
+ ],
+ "assets/ui/icons/icon_check.png": [
+  64879,
+  20725
+ ],
+ "assets/ui/icons/icon_settings.png": [
+  123767,
+  36077
+ ],
+ "assets/ui/icons/star_empty.png": [
+  108629,
+  30263
+ ],
+ "assets/ui/icons/star_filled.png": [
+  134928,
+  32255
+ ],
+ "assets/ui/icons/tool_hammer.png": [
+  169215,
+  39695
+ ],
+ "assets/ui/icons/tool_shuffle.png": [
+  132349,
+  34464
+ ],
+ "assets/ui/icons/tool_swap.png": [
+  119602,
+  32326
+ ],
+ "assets/ui/components/button_primary.png": [
+  61866,
+  50508
+ ],
+ "assets/ui/components/button_round.png": [
+  64744,
+  53840
+ ],
+ "assets/ui/components/button_secondary.png": [
+  40288,
+  33174
+ ],
+ "assets/ui/components/cell_cream.png": [
+  88589,
+  68974
+ ],
+ "assets/ui/components/cell_sage.png": [
+  91677,
+  70651
+ ],
+ "assets/ui/components/cell_selected.png": [
+  56419,
+  43012
+ ],
+ "assets/ui/components/count_badge.png": [
+  49798,
+  39537
+ ],
+ "assets/ui/components/hud_panel.png": [
+  68266,
+  61935
+ ],
+ "assets/ui/components/instruction_bar.png": [
+  52991,
+  46181
+ ],
+ "assets/ui/components/progress_track.png": [
+  29929,
+  24528
+ ],
+ "assets/ui/components/result_panel.png": [
+  97826,
+  83900
+ ],
+ "assets/ui/components/tool_selected_ring.png": [
+  58937,
+  51336
+ ],
+ "assets/board/board_frame.png": [
+  346682,
+  253800
+ ]
+}
