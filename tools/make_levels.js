@@ -146,7 +146,14 @@ const levels = {}; files.forEach(f => { const r = S.parse(fs.readFileSync(path.j
 // stage C (catalog v2): formal chapters ch1–ch5 (formal: true → player progress / stars / records, chapter unlock flow);
 // legacy + verification + stage-B sample chapters stay reachable via ?level= / dev panel but are formal: false (never write
 // progress). Fixed-condition challenges are listed separately with their frozen config (see challengeConfig below).
-const FORMAL = [['ch1', '第一章 · 软糯入门'], ['ch2', '第二章 · 饼干箱'], ['ch3', '第三章 · 糖霜与硬箱'], ['ch4', '第四章 · 软糖绑带'], ['ch5', '第五章 · 果篮送达'], ['ch6', '第六章 · 综合运用'], ['ch7', '第七章 · 通路与节奏'], ['ch8', '第八章 · 终章']];
+const FORMAL = [
+  ['ch1', '第一章 · 软糯入门'], ['ch2', '第二章 · 饼干箱'], ['ch3', '第三章 · 糖霜与硬箱'], ['ch4', '第四章 · 软糖绑带'],
+  ['ch5', '第五章 · 果篮送达'], ['ch6', '第六章 · 综合运用'], ['ch7', '第七章 · 通路与节奏'], ['ch8', '第八章 · 终章'],
+  // zones 2–10 (levels 51–500) from tools/make_levels_500.js — Royal Match–style curve
+  ['z02', '区2 · 糖霜与箱墙'], ['z03', '区3 · 绑带回响'], ['z04', '区4 · 果篮走廊'], ['z05', '区5 · 异形通路'],
+  ['z06', '区6 · 双目标高压'], ['z07', '区7 · 三目标夜'], ['z08', '区8 · 窄盘重组'], ['z09', '区9 · 决策密度'],
+  ['z10', '区10 · 终局软糯']
+];
 const catalog = { catalogVersion: 2, chapters: FORMAL.map(([id, name]) => ({ chapterId: id, name, formal: true,
     levels: Object.values(levels).filter(d => d.chapterId === id).map(d => d.levelId).sort() })).filter(c => c.levels.length).concat([
   { chapterId: 'chapter_01', name: '旧版第一章（开发）', formal: false, levels: ['legacy_01', 'legacy_02', 'legacy_03'] },
