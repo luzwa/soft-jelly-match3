@@ -1,0 +1,1413 @@
+{
+ "b_deliver_intro": {
+  "contentRevision": 1,
+  "contentHash": "3d8a0e2a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.5
+  },
+  "issues": []
+ },
+ "b_tie_intro": {
+  "contentRevision": 1,
+  "contentHash": "4928b3b4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c1_01": {
+  "contentRevision": 1,
+  "contentHash": "a3b9042c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5
+  },
+  "issues": []
+ },
+ "c1_02": {
+  "contentRevision": 1,
+  "contentHash": "df42edf3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": []
+ },
+ "c1_03": {
+  "contentRevision": 1,
+  "contentHash": "92accfac",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "c1_04": {
+  "contentRevision": 1,
+  "contentHash": "5f16d15c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 22.1
+  },
+  "issues": []
+ },
+ "c1_05": {
+  "contentRevision": 1,
+  "contentHash": "e243f25a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "c1_06": {
+  "contentRevision": 1,
+  "contentHash": "b7a180e2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "c2_01": {
+  "contentRevision": 1,
+  "contentHash": "5b35d668",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c2_02": {
+  "contentRevision": 1,
+  "contentHash": "76dbe58",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c2_03": {
+  "contentRevision": 1,
+  "contentHash": "346aa318",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c2_04": {
+  "contentRevision": 1,
+  "contentHash": "cf3327a3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c2_05": {
+  "contentRevision": 1,
+  "contentHash": "281c9875",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c2_06": {
+  "contentRevision": 1,
+  "contentHash": "65774f33",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c3_01": {
+  "contentRevision": 1,
+  "contentHash": "53a67e55",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 17
+  },
+  "issues": []
+ },
+ "c3_02": {
+  "contentRevision": 1,
+  "contentHash": "d57ca1c4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c3_03": {
+  "contentRevision": 1,
+  "contentHash": "ec9d255c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c3_04": {
+  "contentRevision": 1,
+  "contentHash": "4f078571",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c3_05": {
+  "contentRevision": 1,
+  "contentHash": "79e85fd3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c3_06": {
+  "contentRevision": 1,
+  "contentHash": "40da7ddf",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c4_01": {
+  "contentRevision": 1,
+  "contentHash": "8e07b8c1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 12.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c4_02": {
+  "contentRevision": 1,
+  "contentHash": "f96e22dc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c4_03": {
+  "contentRevision": 1,
+  "contentHash": "a70d899",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c4_04": {
+  "contentRevision": 1,
+  "contentHash": "42d3c6d9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c4_05": {
+  "contentRevision": 1,
+  "contentHash": "76581546",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c4_06": {
+  "contentRevision": 1,
+  "contentHash": "27a3be2f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 17.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c5_01": {
+  "contentRevision": 1,
+  "contentHash": "2b4e5b41",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.5
+  },
+  "issues": []
+ },
+ "c5_02": {
+  "contentRevision": 1,
+  "contentHash": "690273fb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.7
+  },
+  "issues": []
+ },
+ "c5_03": {
+  "contentRevision": 1,
+  "contentHash": "b7ebc8db",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c5_04": {
+  "contentRevision": 1,
+  "contentHash": "464cb85",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c5_05": {
+  "contentRevision": 1,
+  "contentHash": "d4b0ed43",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c5_06": {
+  "contentRevision": 1,
+  "contentHash": "774642d1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 17.9
+  },
+  "issues": []
+ },
+ "c6_01": {
+  "contentRevision": 1,
+  "contentHash": "e9b1f297",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "c6_02": {
+  "contentRevision": 1,
+  "contentHash": "98fccf1c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c6_03": {
+  "contentRevision": 1,
+  "contentHash": "cc0ab680",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c6_04": {
+  "contentRevision": 1,
+  "contentHash": "1414fa67",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c6_05": {
+  "contentRevision": 1,
+  "contentHash": "a64decee",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 9
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c6_06": {
+  "contentRevision": 1,
+  "contentHash": "c89133f4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 17.6
+  },
+  "issues": []
+ },
+ "c7_01": {
+  "contentRevision": 1,
+  "contentHash": "85afab99",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 1
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.5
+  },
+  "issues": [
+   "warn:cut_off"
+  ]
+ },
+ "c7_02": {
+  "contentRevision": 1,
+  "contentHash": "6e01b6e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 9
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c7_03": {
+  "contentRevision": 1,
+  "contentHash": "bb9c1c6f",
+  "counts": {
+   "error": 0,
+   "block": 2,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.4
+  },
+  "issues": [
+   "block:basket_no_exit",
+   "block:basket_no_exit"
+  ]
+ },
+ "c7_04": {
+  "contentRevision": 1,
+  "contentHash": "c8a49cb1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c7_05": {
+  "contentRevision": 1,
+  "contentHash": "3bc4613c",
+  "counts": {
+   "error": 0,
+   "block": 2,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "block:basket_no_exit",
+   "block:basket_no_exit",
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c7_06": {
+  "contentRevision": 1,
+  "contentHash": "5ddedc4a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "c8_01": {
+  "contentRevision": 1,
+  "contentHash": "a4794d91",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c8_02": {
+  "contentRevision": 1,
+  "contentHash": "610a52d2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c8_03": {
+  "contentRevision": 1,
+  "contentHash": "ce1a186c",
+  "counts": {
+   "error": 1,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 0,
+   "initFail": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "avgLegalMoves": 0
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "error:init_impossible"
+  ]
+ },
+ "c8_04": {
+  "contentRevision": 1,
+  "contentHash": "92f5b106",
+  "counts": {
+   "error": 0,
+   "block": 1,
+   "warn": 9
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "block:basket_no_exit",
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c8_05": {
+  "contentRevision": 1,
+  "contentHash": "85e2e8b9",
+  "counts": {
+   "error": 0,
+   "block": 2,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.5
+  },
+  "issues": [
+   "block:basket_no_exit",
+   "block:basket_no_exit",
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c8_06": {
+  "contentRevision": 1,
+  "contentHash": "7bd32f73",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "c8_07": {
+  "contentRevision": 1,
+  "contentHash": "4f40371b",
+  "counts": {
+   "error": 1,
+   "block": 3,
+   "warn": 7
+  },
+  "sim": null,
+  "issues": [
+   "block:basket_no_exit",
+   "block:basket_no_exit",
+   "block:basket_no_exit",
+   "error:goals_many",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "c8_08": {
+  "contentRevision": 1,
+  "contentHash": "936d4a74",
+  "counts": {
+   "error": 0,
+   "block": 2,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 17.8
+  },
+  "issues": [
+   "block:basket_no_exit",
+   "block:basket_no_exit"
+  ]
+ },
+ "chal_delivery": {
+  "contentRevision": 1,
+  "contentHash": "55498bf1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "chal_obstacle": {
+  "contentRevision": 1,
+  "contentHash": "688cf326",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "chal_special": {
+  "contentRevision": 1,
+  "contentHash": "c126470d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "legacy_01": {
+  "contentRevision": 1,
+  "contentHash": "9aca3da3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.4
+  },
+  "issues": []
+ },
+ "legacy_02": {
+  "contentRevision": 1,
+  "contentHash": "4f11e0d6",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.4
+  },
+  "issues": []
+ },
+ "legacy_03": {
+  "contentRevision": 1,
+  "contentHash": "4cc16067",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.4
+  },
+  "issues": []
+ },
+ "vb_01_ties": {
+  "contentRevision": 1,
+  "contentHash": "6e023594",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "vb_02_delivery": {
+  "contentRevision": 1,
+  "contentHash": "6a494074",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3
+  },
+  "issues": []
+ },
+ "vb_03_rainbow_ties": {
+  "contentRevision": 1,
+  "contentHash": "dc0d4bc3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "vb_04_anchor": {
+  "contentRevision": 1,
+  "contentHash": "f76d0d0b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 1
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8
+  },
+  "issues": [
+   "warn:cut_off"
+  ]
+ },
+ "vb_05_layers": {
+  "contentRevision": 1,
+  "contentHash": "cfb88a4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "vb_06_board_attack": {
+  "contentRevision": 1,
+  "contentHash": "be8ae9d1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "verify_01_baseline": {
+  "contentRevision": 1,
+  "contentHash": "f2e85e88",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "verify_02_double_frosting": {
+  "contentRevision": 1,
+  "contentHash": "bfdde792",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "verify_03_crate_adjacent": {
+  "contentRevision": 1,
+  "contentHash": "d9f47d53",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "verify_04_overlap_dedupe": {
+  "contentRevision": 1,
+  "contentHash": "cae5ff02",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 12
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "verify_05_last_move": {
+  "contentRevision": 1,
+  "contentHash": "358930f1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13
+  },
+  "issues": []
+ },
+ "verify_06_segments": {
+  "contentRevision": 1,
+  "contentHash": "53cb2e45",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 1
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.5
+  },
+  "issues": [
+   "warn:cut_off"
+  ]
+ }
+}

@@ -1,0 +1,449 @@
+{
+  "schemaVersion": 1,
+  "levelId": "vb_06_board_attack",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "验证 B6 · 全盘攻击",
+  "chapterId": "verify_b",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111",
+      "1111111"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 0,
+        "col": 0
+      },
+      {
+        "row": 0,
+        "col": 1
+      },
+      {
+        "row": 0,
+        "col": 2
+      },
+      {
+        "row": 0,
+        "col": 3
+      },
+      {
+        "row": 0,
+        "col": 4
+      },
+      {
+        "row": 0,
+        "col": 5
+      },
+      {
+        "row": 0,
+        "col": 6
+      }
+    ],
+    "exits": [
+      {
+        "row": 6,
+        "col": 6
+      }
+    ]
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": [
+      {
+        "layer": "underlay",
+        "row": 2,
+        "col": 5,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "underlay",
+        "row": 6,
+        "col": 0,
+        "typeId": "frosting_pad",
+        "layers": 2
+      },
+      {
+        "layer": "occupant",
+        "row": 0,
+        "col": 0,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 0,
+        "col": 1,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 0,
+        "col": 2,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 0,
+        "col": 3,
+        "typeId": "jelly_fig"
+      },
+      {
+        "layer": "occupant",
+        "row": 0,
+        "col": 4,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 0,
+        "col": 5,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 0,
+        "col": 6,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 0,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 1,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 2,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 3,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 4,
+        "typeId": "jelly_fig"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 5,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 6,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 0,
+        "typeId": "jelly_fig"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 1,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 2,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 3,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 4,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 5,
+        "typeId": "jelly_fig"
+      },
+      {
+        "layer": "occupant",
+        "row": 2,
+        "col": 6,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 0,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 1,
+        "typeId": "jelly_fig"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 2,
+        "typeId": "rainbow",
+        "special": "rainbow"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 3,
+        "typeId": "rainbow",
+        "special": "rainbow"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 4,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 5,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 3,
+        "col": 6,
+        "typeId": "jelly_fig"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 0,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 1,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 2,
+        "typeId": "jelly_fig"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 3,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 4,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 5,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 4,
+        "col": 6,
+        "typeId": "delivery_basket"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 0,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 1,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 2,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 3,
+        "typeId": "jelly_fig"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 4,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 5,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 6,
+        "typeId": "cookie_crate",
+        "hp": 2
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 0,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 1,
+        "typeId": "cookie_crate",
+        "hp": 2
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 2,
+        "typeId": "jelly_bear"
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 3,
+        "typeId": "jelly_fugu"
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 4,
+        "typeId": "cookie_crate",
+        "hp": 2
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 5,
+        "typeId": "jelly_jellyfish"
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 6,
+        "typeId": "jelly_squid"
+      },
+      {
+        "layer": "overlay",
+        "row": 1,
+        "col": 1,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 5,
+        "col": 5,
+        "typeId": "gummy_tie",
+        "layers": 1
+      }
+    ]
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fig",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 10,
+  "goals": [
+    {
+      "type": "clear_underlay",
+      "typeId": "frosting_pad",
+      "scope": "all"
+    },
+    {
+      "type": "clear_obstacle",
+      "typeId": "cookie_crate",
+      "scope": "all"
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      23900,
+      28900,
+      39800
+    ],
+    "scoreVersion": "jelly_score_v1",
+    "starsBasis": "goal_greedy wins n=71, seeds 1–100",
+    "starsMethod": "bot_greedy_quantiles_v1",
+    "starsStatus": "provisional_bot_derived"
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "【规则测试摆放】彩虹＋彩虹：全部有效格各受 1 次直接攻击——普通果冻全部离场，2HP 箱子只剩 1，2 层地垫只剩 1，绑带解除；果篮免疫且被箱子挡住，不会被凭空计为送达",
+    "intendedDifficulty": "unrated",
+    "validationStatus": "structure_checked_unplaytested",
+    "ruleTestFixture": true
+  }
+}
