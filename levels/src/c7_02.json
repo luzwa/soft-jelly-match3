@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "levelId": "c7_02",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "7-2 双岛",
+  "chapterId": "ch7",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "1110111",
+      "1110111",
+      "1110111",
+      "0000000",
+      "1110111",
+      "1110111",
+      "1110111"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 0,
+        "col": 0
+      },
+      {
+        "row": 0,
+        "col": 1
+      },
+      {
+        "row": 0,
+        "col": 2
+      },
+      {
+        "row": 0,
+        "col": 4
+      },
+      {
+        "row": 0,
+        "col": 5
+      },
+      {
+        "row": 0,
+        "col": 6
+      },
+      {
+        "row": 4,
+        "col": 0
+      },
+      {
+        "row": 4,
+        "col": 1
+      },
+      {
+        "row": 4,
+        "col": 2
+      },
+      {
+        "row": 4,
+        "col": 4
+      },
+      {
+        "row": 4,
+        "col": 5
+      },
+      {
+        "row": 4,
+        "col": 6
+      }
+    ],
+    "exits": []
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": [
+      {
+        "layer": "underlay",
+        "row": 2,
+        "col": 1,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 2,
+        "col": 5,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 4,
+        "col": 1,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "underlay",
+        "row": 4,
+        "col": 5,
+        "typeId": "frosting_pad",
+        "layers": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 1,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 1,
+        "col": 5,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 1,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 5,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 1,
+        "col": 2,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 1,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 5,
+        "col": 2,
+        "typeId": "gummy_tie",
+        "layers": 1
+      },
+      {
+        "layer": "overlay",
+        "row": 5,
+        "col": 4,
+        "typeId": "gummy_tie",
+        "layers": 1
+      }
+    ]
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fig",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 30,
+  "goals": [
+    {
+      "type": "clear_obstacle",
+      "typeId": "cookie_crate",
+      "scope": "all"
+    },
+    {
+      "type": "clear_obstacle",
+      "typeId": "gummy_tie",
+      "scope": "all"
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      8000,
+      14000,
+      20000
+    ]
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "左右双岛被中央 void 隔开：两侧独立清箱子与绑带",
+    "intendedDifficulty": "unrated",
+    "validationStatus": "structure_checked_bot_diagnosed_unplaytested",
+    "chapterRole": "normal"
+  }
+}
