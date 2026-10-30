@@ -1,0 +1,46 @@
+name: import-b64-assets
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode staged base64 assets into real binaries
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          import os, base64, pathlib
+          root = pathlib.Path("assets/_import_b64")
+          if not root.exists():
+              raise SystemExit("no assets/_import_b64")
+          n = 0
+          for p in sorted(root.rglob("*.b64")):
+              rel = p.relative_to(root)  # e.g. ui/icons/foo.png.b64
+              # strip .b64 -> ui/icons/foo.png
+              name = str(rel)[:-4] if str(rel).endswith(".b64") else str(rel)
+              out = pathlib.Path("assets") / name
+              out.parent.mkdir(parents=True, exist_ok=True)
+              data = base64.b64decode(p.read_text())
+              out.write_bytes(data)
+              print(f"wrote {out} ({len(data)} bytes)")
+              n += 1
+          print(f"decoded {n} files")
+          PY
+      - name: Remove staging dir and probes
+        run: |
+          rm -rf assets/_import_b64
+          rm -f assets/_probe_b64.png assets/_probe_enc.png assets/_probe_file.png || true
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "feat: add assets ui obstacles board material backgrounds (decoded)"
+          git push
