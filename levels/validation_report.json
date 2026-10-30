@@ -1409,5 +1409,9630 @@
   "issues": [
    "warn:cut_off"
   ]
+ },
+ "z02_01": {
+  "contentRevision": 1,
+  "contentHash": "fa3d1a79",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z02_02": {
+  "contentRevision": 1,
+  "contentHash": "cb919f0d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_03": {
+  "contentRevision": 1,
+  "contentHash": "55fbf9d2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_04": {
+  "contentRevision": 1,
+  "contentHash": "ab37f25a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_05": {
+  "contentRevision": 1,
+  "contentHash": "c62684c7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_06": {
+  "contentRevision": 1,
+  "contentHash": "509207f2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_07": {
+  "contentRevision": 1,
+  "contentHash": "2a7e54ee",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z02_08": {
+  "contentRevision": 1,
+  "contentHash": "ffffb9a2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_09": {
+  "contentRevision": 1,
+  "contentHash": "87860fb9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_10": {
+  "contentRevision": 1,
+  "contentHash": "dfc239cc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_11": {
+  "contentRevision": 1,
+  "contentHash": "b6e81d88",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z02_12": {
+  "contentRevision": 1,
+  "contentHash": "d0939b80",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_13": {
+  "contentRevision": 1,
+  "contentHash": "99293b6f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_14": {
+  "contentRevision": 1,
+  "contentHash": "74a6889b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_15": {
+  "contentRevision": 1,
+  "contentHash": "fd875d4c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_16": {
+  "contentRevision": 1,
+  "contentHash": "30342050",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_17": {
+  "contentRevision": 1,
+  "contentHash": "fa8638b1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_18": {
+  "contentRevision": 1,
+  "contentHash": "e56663e8",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_19": {
+  "contentRevision": 1,
+  "contentHash": "3647fa8e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_20": {
+  "contentRevision": 1,
+  "contentHash": "923ef14c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_21": {
+  "contentRevision": 1,
+  "contentHash": "c323a122",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_22": {
+  "contentRevision": 1,
+  "contentHash": "fa7c9ddf",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_23": {
+  "contentRevision": 1,
+  "contentHash": "8deba002",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_24": {
+  "contentRevision": 1,
+  "contentHash": "7d2dd44c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_25": {
+  "contentRevision": 1,
+  "contentHash": "eaf83a4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_26": {
+  "contentRevision": 1,
+  "contentHash": "294e4bf7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_27": {
+  "contentRevision": 1,
+  "contentHash": "4c9d17fd",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z02_28": {
+  "contentRevision": 1,
+  "contentHash": "f52a14c6",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_29": {
+  "contentRevision": 1,
+  "contentHash": "c42185df",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_30": {
+  "contentRevision": 1,
+  "contentHash": "905a00b9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_31": {
+  "contentRevision": 1,
+  "contentHash": "9a97d00d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z02_32": {
+  "contentRevision": 1,
+  "contentHash": "b618e5a9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z02_33": {
+  "contentRevision": 1,
+  "contentHash": "abfee82c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_34": {
+  "contentRevision": 1,
+  "contentHash": "50ab4049",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_35": {
+  "contentRevision": 1,
+  "contentHash": "e4ba2308",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_36": {
+  "contentRevision": 1,
+  "contentHash": "9ed2c7ff",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_37": {
+  "contentRevision": 1,
+  "contentHash": "18627d49",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_38": {
+  "contentRevision": 1,
+  "contentHash": "708e2e41",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_39": {
+  "contentRevision": 1,
+  "contentHash": "ae18d6a2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_40": {
+  "contentRevision": 1,
+  "contentHash": "4ae57f22",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_41": {
+  "contentRevision": 1,
+  "contentHash": "11241867",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_42": {
+  "contentRevision": 1,
+  "contentHash": "80482fba",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_43": {
+  "contentRevision": 1,
+  "contentHash": "f38edaa5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_44": {
+  "contentRevision": 1,
+  "contentHash": "b70a825",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z02_45": {
+  "contentRevision": 1,
+  "contentHash": "906e7e9a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_46": {
+  "contentRevision": 1,
+  "contentHash": "fccc678b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 12.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_47": {
+  "contentRevision": 1,
+  "contentHash": "73e8eda3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z02_48": {
+  "contentRevision": 1,
+  "contentHash": "2a7eb3c9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z02_49": {
+  "contentRevision": 1,
+  "contentHash": "e9436deb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z02_50": {
+  "contentRevision": 1,
+  "contentHash": "6ff2f726",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_01": {
+  "contentRevision": 1,
+  "contentHash": "976a72ee",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_02": {
+  "contentRevision": 1,
+  "contentHash": "41458a5d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_03": {
+  "contentRevision": 1,
+  "contentHash": "7afb57d4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_04": {
+  "contentRevision": 1,
+  "contentHash": "2e3f1140",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_05": {
+  "contentRevision": 1,
+  "contentHash": "5c4648e7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_06": {
+  "contentRevision": 1,
+  "contentHash": "278c1e0b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_07": {
+  "contentRevision": 1,
+  "contentHash": "3f0508fb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_08": {
+  "contentRevision": 1,
+  "contentHash": "f725da55",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_09": {
+  "contentRevision": 1,
+  "contentHash": "91e6adb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_10": {
+  "contentRevision": 1,
+  "contentHash": "36c70b9d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.3
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_11": {
+  "contentRevision": 1,
+  "contentHash": "7d01685b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_12": {
+  "contentRevision": 1,
+  "contentHash": "325bbf0c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z03_13": {
+  "contentRevision": 1,
+  "contentHash": "a6c227fd",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_14": {
+  "contentRevision": 1,
+  "contentHash": "47275e12",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_15": {
+  "contentRevision": 1,
+  "contentHash": "3b8e9131",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_16": {
+  "contentRevision": 1,
+  "contentHash": "db2a5e36",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_17": {
+  "contentRevision": 1,
+  "contentHash": "552288cd",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_18": {
+  "contentRevision": 1,
+  "contentHash": "71872b24",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.3
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_19": {
+  "contentRevision": 1,
+  "contentHash": "54e972a5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_20": {
+  "contentRevision": 1,
+  "contentHash": "1e5c8f3f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_21": {
+  "contentRevision": 1,
+  "contentHash": "d2e68861",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_22": {
+  "contentRevision": 1,
+  "contentHash": "63d32775",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_23": {
+  "contentRevision": 1,
+  "contentHash": "2b904262",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_24": {
+  "contentRevision": 1,
+  "contentHash": "ff43b4ea",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_25": {
+  "contentRevision": 1,
+  "contentHash": "ccc04f53",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_26": {
+  "contentRevision": 1,
+  "contentHash": "bbce221",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_27": {
+  "contentRevision": 1,
+  "contentHash": "63317945",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_28": {
+  "contentRevision": 1,
+  "contentHash": "e4f41297",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_29": {
+  "contentRevision": 1,
+  "contentHash": "adfc6e37",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_30": {
+  "contentRevision": 1,
+  "contentHash": "f7a74f69",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_31": {
+  "contentRevision": 1,
+  "contentHash": "4cec6f13",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_32": {
+  "contentRevision": 1,
+  "contentHash": "14a700ca",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_33": {
+  "contentRevision": 1,
+  "contentHash": "34467357",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_34": {
+  "contentRevision": 1,
+  "contentHash": "fa97799c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_35": {
+  "contentRevision": 1,
+  "contentHash": "efd5d045",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z03_36": {
+  "contentRevision": 1,
+  "contentHash": "ff7bfd70",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_37": {
+  "contentRevision": 1,
+  "contentHash": "a953c6e9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z03_38": {
+  "contentRevision": 1,
+  "contentHash": "1d01fd29",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_39": {
+  "contentRevision": 1,
+  "contentHash": "d980a2e3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_40": {
+  "contentRevision": 1,
+  "contentHash": "27d589a7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_41": {
+  "contentRevision": 1,
+  "contentHash": "2bb3393c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_42": {
+  "contentRevision": 1,
+  "contentHash": "da1ee274",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_43": {
+  "contentRevision": 1,
+  "contentHash": "9080fae2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_44": {
+  "contentRevision": 1,
+  "contentHash": "29cd8092",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_45": {
+  "contentRevision": 1,
+  "contentHash": "31dcd704",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.4
+  },
+  "issues": []
+ },
+ "z03_46": {
+  "contentRevision": 1,
+  "contentHash": "a8106164",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_47": {
+  "contentRevision": 1,
+  "contentHash": "b02c34a5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_48": {
+  "contentRevision": 1,
+  "contentHash": "cfec8e2b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z03_49": {
+  "contentRevision": 1,
+  "contentHash": "7721e929",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 21
+  },
+  "issues": []
+ },
+ "z03_50": {
+  "contentRevision": 1,
+  "contentHash": "30302205",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_01": {
+  "contentRevision": 1,
+  "contentHash": "64742294",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13.5
+  },
+  "issues": []
+ },
+ "z04_02": {
+  "contentRevision": 1,
+  "contentHash": "27102a16",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.2
+  },
+  "issues": []
+ },
+ "z04_03": {
+  "contentRevision": 1,
+  "contentHash": "53c8b574",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_04": {
+  "contentRevision": 1,
+  "contentHash": "a4d6d2d7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.3
+  },
+  "issues": []
+ },
+ "z04_05": {
+  "contentRevision": 1,
+  "contentHash": "962b5736",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_06": {
+  "contentRevision": 1,
+  "contentHash": "6f645fa2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 19.4
+  },
+  "issues": []
+ },
+ "z04_07": {
+  "contentRevision": 1,
+  "contentHash": "1a1b09f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_08": {
+  "contentRevision": 1,
+  "contentHash": "e4f5d56f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13.8
+  },
+  "issues": []
+ },
+ "z04_09": {
+  "contentRevision": 1,
+  "contentHash": "c4e766e4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_10": {
+  "contentRevision": 1,
+  "contentHash": "fe5d0a58",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_11": {
+  "contentRevision": 1,
+  "contentHash": "2a61f414",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_12": {
+  "contentRevision": 1,
+  "contentHash": "b89cb4aa",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 19.2
+  },
+  "issues": []
+ },
+ "z04_13": {
+  "contentRevision": 1,
+  "contentHash": "750ca102",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_14": {
+  "contentRevision": 1,
+  "contentHash": "2b59e8e9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14
+  },
+  "issues": []
+ },
+ "z04_15": {
+  "contentRevision": 1,
+  "contentHash": "50d50bd8",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_16": {
+  "contentRevision": 1,
+  "contentHash": "bf1c8652",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 20.6
+  },
+  "issues": []
+ },
+ "z04_17": {
+  "contentRevision": 1,
+  "contentHash": "1d6073ea",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 20.6
+  },
+  "issues": []
+ },
+ "z04_18": {
+  "contentRevision": 1,
+  "contentHash": "fb25a36b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13.6
+  },
+  "issues": []
+ },
+ "z04_19": {
+  "contentRevision": 1,
+  "contentHash": "c7faa899",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_20": {
+  "contentRevision": 1,
+  "contentHash": "2ed502f7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_21": {
+  "contentRevision": 1,
+  "contentHash": "6b31c8b3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_22": {
+  "contentRevision": 1,
+  "contentHash": "38446a35",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.3
+  },
+  "issues": []
+ },
+ "z04_23": {
+  "contentRevision": 1,
+  "contentHash": "36ab9585",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_24": {
+  "contentRevision": 1,
+  "contentHash": "a9fa3312",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_25": {
+  "contentRevision": 1,
+  "contentHash": "bca2e0ac",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_26": {
+  "contentRevision": 1,
+  "contentHash": "a6a81bb5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14
+  },
+  "issues": []
+ },
+ "z04_27": {
+  "contentRevision": 1,
+  "contentHash": "a9039425",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_28": {
+  "contentRevision": 1,
+  "contentHash": "5b83897d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.2
+  },
+  "issues": []
+ },
+ "z04_29": {
+  "contentRevision": 1,
+  "contentHash": "f229193e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_30": {
+  "contentRevision": 1,
+  "contentHash": "6bc262b8",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_31": {
+  "contentRevision": 1,
+  "contentHash": "c95f71b7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_32": {
+  "contentRevision": 1,
+  "contentHash": "95a6e83c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13.8
+  },
+  "issues": []
+ },
+ "z04_33": {
+  "contentRevision": 1,
+  "contentHash": "b67072e1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_34": {
+  "contentRevision": 1,
+  "contentHash": "ef87bf4e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_35": {
+  "contentRevision": 1,
+  "contentHash": "3c917244",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z04_36": {
+  "contentRevision": 1,
+  "contentHash": "a877f734",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 19.7
+  },
+  "issues": []
+ },
+ "z04_37": {
+  "contentRevision": 1,
+  "contentHash": "a66671f1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_38": {
+  "contentRevision": 1,
+  "contentHash": "be88ac31",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_39": {
+  "contentRevision": 1,
+  "contentHash": "1798b333",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_40": {
+  "contentRevision": 1,
+  "contentHash": "d431199c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z04_41": {
+  "contentRevision": 1,
+  "contentHash": "a1fa7aa7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_42": {
+  "contentRevision": 1,
+  "contentHash": "1aa57f26",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_43": {
+  "contentRevision": 1,
+  "contentHash": "331e26c1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_44": {
+  "contentRevision": 1,
+  "contentHash": "96959057",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14
+  },
+  "issues": []
+ },
+ "z04_45": {
+  "contentRevision": 1,
+  "contentHash": "338e861f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_46": {
+  "contentRevision": 1,
+  "contentHash": "ae694cea",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14
+  },
+  "issues": []
+ },
+ "z04_47": {
+  "contentRevision": 1,
+  "contentHash": "f160eb88",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_48": {
+  "contentRevision": 1,
+  "contentHash": "c9abd479",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 0
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14
+  },
+  "issues": []
+ },
+ "z04_49": {
+  "contentRevision": 1,
+  "contentHash": "1aab8f44",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z04_50": {
+  "contentRevision": 1,
+  "contentHash": "8a97f062",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_01": {
+  "contentRevision": 1,
+  "contentHash": "6c71b46f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_02": {
+  "contentRevision": 1,
+  "contentHash": "7eacce81",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_03": {
+  "contentRevision": 1,
+  "contentHash": "d5a2b7c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_04": {
+  "contentRevision": 1,
+  "contentHash": "b456c893",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_05": {
+  "contentRevision": 1,
+  "contentHash": "326b636e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_06": {
+  "contentRevision": 1,
+  "contentHash": "817aa498",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_07": {
+  "contentRevision": 1,
+  "contentHash": "e4038aa6",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_08": {
+  "contentRevision": 1,
+  "contentHash": "9c328a4a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_09": {
+  "contentRevision": 1,
+  "contentHash": "e856d809",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.9
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_10": {
+  "contentRevision": 1,
+  "contentHash": "356e4a2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_11": {
+  "contentRevision": 1,
+  "contentHash": "7e9e58e0",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.7
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_12": {
+  "contentRevision": 1,
+  "contentHash": "5b8a17e4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_13": {
+  "contentRevision": 1,
+  "contentHash": "2a41f64a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.8
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_14": {
+  "contentRevision": 1,
+  "contentHash": "854add1b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_15": {
+  "contentRevision": 1,
+  "contentHash": "94db1747",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_16": {
+  "contentRevision": 1,
+  "contentHash": "12e309fe",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_17": {
+  "contentRevision": 1,
+  "contentHash": "6ed83cc5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_18": {
+  "contentRevision": 1,
+  "contentHash": "639c4c50",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_19": {
+  "contentRevision": 1,
+  "contentHash": "210945b7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_20": {
+  "contentRevision": 1,
+  "contentHash": "346d5281",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_21": {
+  "contentRevision": 1,
+  "contentHash": "c8fedcc7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_22": {
+  "contentRevision": 1,
+  "contentHash": "cdb193df",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_23": {
+  "contentRevision": 1,
+  "contentHash": "e1baaf98",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_24": {
+  "contentRevision": 1,
+  "contentHash": "438311",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.9
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_25": {
+  "contentRevision": 1,
+  "contentHash": "12b380c8",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_26": {
+  "contentRevision": 1,
+  "contentHash": "ae005839",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_27": {
+  "contentRevision": 1,
+  "contentHash": "cecaf407",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.3
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_28": {
+  "contentRevision": 1,
+  "contentHash": "76475187",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_29": {
+  "contentRevision": 1,
+  "contentHash": "d71b587",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_30": {
+  "contentRevision": 1,
+  "contentHash": "2da16e28",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.8
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_31": {
+  "contentRevision": 1,
+  "contentHash": "7404969d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_32": {
+  "contentRevision": 1,
+  "contentHash": "d999f164",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 1
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.7
+  },
+  "issues": [
+   "warn:cut_off"
+  ]
+ },
+ "z05_33": {
+  "contentRevision": 1,
+  "contentHash": "d3ea9a55",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_34": {
+  "contentRevision": 1,
+  "contentHash": "6f805dcc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_35": {
+  "contentRevision": 1,
+  "contentHash": "5b94b35e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_36": {
+  "contentRevision": 1,
+  "contentHash": "d24990f7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_37": {
+  "contentRevision": 1,
+  "contentHash": "af83d44a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_38": {
+  "contentRevision": 1,
+  "contentHash": "69f08926",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_39": {
+  "contentRevision": 1,
+  "contentHash": "cc087e58",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_40": {
+  "contentRevision": 1,
+  "contentHash": "7836664c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_41": {
+  "contentRevision": 1,
+  "contentHash": "5b6c7515",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.3
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_42": {
+  "contentRevision": 1,
+  "contentHash": "8b429798",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_43": {
+  "contentRevision": 1,
+  "contentHash": "3bd642ff",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_44": {
+  "contentRevision": 1,
+  "contentHash": "a6eff3f9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_45": {
+  "contentRevision": 1,
+  "contentHash": "3a03efa8",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 9
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z05_46": {
+  "contentRevision": 1,
+  "contentHash": "acbf2a6c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_47": {
+  "contentRevision": 1,
+  "contentHash": "d34e5939",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_48": {
+  "contentRevision": 1,
+  "contentHash": "2fd7b536",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 1
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:cut_off"
+  ]
+ },
+ "z05_49": {
+  "contentRevision": 1,
+  "contentHash": "c838cb3f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z05_50": {
+  "contentRevision": 1,
+  "contentHash": "4c1aa894",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_01": {
+  "contentRevision": 1,
+  "contentHash": "c6e20e6b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_02": {
+  "contentRevision": 1,
+  "contentHash": "12fa156d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_03": {
+  "contentRevision": 1,
+  "contentHash": "b6620794",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_04": {
+  "contentRevision": 1,
+  "contentHash": "19582049",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_05": {
+  "contentRevision": 1,
+  "contentHash": "b8758f76",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_06": {
+  "contentRevision": 1,
+  "contentHash": "35d25a8b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_07": {
+  "contentRevision": 1,
+  "contentHash": "1225222b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_08": {
+  "contentRevision": 1,
+  "contentHash": "9ff4eeac",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_09": {
+  "contentRevision": 1,
+  "contentHash": "c42cb354",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.9
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_10": {
+  "contentRevision": 1,
+  "contentHash": "2455ab81",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_11": {
+  "contentRevision": 1,
+  "contentHash": "2938ce38",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_12": {
+  "contentRevision": 1,
+  "contentHash": "e50ecb1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_13": {
+  "contentRevision": 1,
+  "contentHash": "3412a17d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_14": {
+  "contentRevision": 1,
+  "contentHash": "dd40c631",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_15": {
+  "contentRevision": 1,
+  "contentHash": "55d9b75d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_16": {
+  "contentRevision": 1,
+  "contentHash": "50fd828",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_17": {
+  "contentRevision": 1,
+  "contentHash": "7d9c3ba0",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.6
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_18": {
+  "contentRevision": 1,
+  "contentHash": "27c351e5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_19": {
+  "contentRevision": 1,
+  "contentHash": "b5e9fde",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_20": {
+  "contentRevision": 1,
+  "contentHash": "616dfaf4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_21": {
+  "contentRevision": 1,
+  "contentHash": "89985f77",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_22": {
+  "contentRevision": 1,
+  "contentHash": "49ea5467",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_23": {
+  "contentRevision": 1,
+  "contentHash": "9e8249d4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_24": {
+  "contentRevision": 1,
+  "contentHash": "31c0cb1a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_25": {
+  "contentRevision": 1,
+  "contentHash": "f7c0d5f7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_26": {
+  "contentRevision": 1,
+  "contentHash": "1c18e145",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_27": {
+  "contentRevision": 1,
+  "contentHash": "5db3e787",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_28": {
+  "contentRevision": 1,
+  "contentHash": "bd9fea83",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_29": {
+  "contentRevision": 1,
+  "contentHash": "61f33588",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_30": {
+  "contentRevision": 1,
+  "contentHash": "2a10773e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_31": {
+  "contentRevision": 1,
+  "contentHash": "fd5fcd56",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_32": {
+  "contentRevision": 1,
+  "contentHash": "721e55c7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_33": {
+  "contentRevision": 1,
+  "contentHash": "58be532c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_34": {
+  "contentRevision": 1,
+  "contentHash": "7c97dde2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_35": {
+  "contentRevision": 1,
+  "contentHash": "6109167d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_36": {
+  "contentRevision": 1,
+  "contentHash": "661fa9fe",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_37": {
+  "contentRevision": 1,
+  "contentHash": "c68e4a4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_38": {
+  "contentRevision": 1,
+  "contentHash": "8e3ed029",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_39": {
+  "contentRevision": 1,
+  "contentHash": "9dc9afbc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_40": {
+  "contentRevision": 1,
+  "contentHash": "ebdb4662",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_41": {
+  "contentRevision": 1,
+  "contentHash": "2b85b3fb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_42": {
+  "contentRevision": 1,
+  "contentHash": "8b0e4865",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_43": {
+  "contentRevision": 1,
+  "contentHash": "c03eeda1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z06_44": {
+  "contentRevision": 1,
+  "contentHash": "b9a16755",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_45": {
+  "contentRevision": 1,
+  "contentHash": "d1f20762",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_46": {
+  "contentRevision": 1,
+  "contentHash": "c129a976",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_47": {
+  "contentRevision": 1,
+  "contentHash": "e1c79cdf",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_48": {
+  "contentRevision": 1,
+  "contentHash": "8504961",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_49": {
+  "contentRevision": 1,
+  "contentHash": "86c2b703",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.3
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z06_50": {
+  "contentRevision": 1,
+  "contentHash": "bdfdbef1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z07_01": {
+  "contentRevision": 1,
+  "contentHash": "2bfaee33",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_02": {
+  "contentRevision": 1,
+  "contentHash": "aec0fc1f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_03": {
+  "contentRevision": 1,
+  "contentHash": "3359f6e2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_04": {
+  "contentRevision": 1,
+  "contentHash": "8230c326",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z07_05": {
+  "contentRevision": 1,
+  "contentHash": "628eb6a5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_06": {
+  "contentRevision": 1,
+  "contentHash": "f2bfe28c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_07": {
+  "contentRevision": 1,
+  "contentHash": "ac8dfe62",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 12.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_08": {
+  "contentRevision": 1,
+  "contentHash": "ac4dc3ed",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_09": {
+  "contentRevision": 1,
+  "contentHash": "a1e705f4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_10": {
+  "contentRevision": 1,
+  "contentHash": "fb375672",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_11": {
+  "contentRevision": 1,
+  "contentHash": "17bc8dc2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 12.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_12": {
+  "contentRevision": 1,
+  "contentHash": "76fc47df",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.8
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_13": {
+  "contentRevision": 1,
+  "contentHash": "4a094688",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_14": {
+  "contentRevision": 1,
+  "contentHash": "1c9481aa",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_15": {
+  "contentRevision": 1,
+  "contentHash": "29708987",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z07_16": {
+  "contentRevision": 1,
+  "contentHash": "da711de4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_17": {
+  "contentRevision": 1,
+  "contentHash": "ee4033fd",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_18": {
+  "contentRevision": 1,
+  "contentHash": "46e07fc9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_19": {
+  "contentRevision": 1,
+  "contentHash": "d2982d03",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_20": {
+  "contentRevision": 1,
+  "contentHash": "beb66a25",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_21": {
+  "contentRevision": 1,
+  "contentHash": "604dae51",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_22": {
+  "contentRevision": 1,
+  "contentHash": "b6d2c0dc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_23": {
+  "contentRevision": 1,
+  "contentHash": "9d9ec5f9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z07_24": {
+  "contentRevision": 1,
+  "contentHash": "60bac36d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_25": {
+  "contentRevision": 1,
+  "contentHash": "a37d1696",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_26": {
+  "contentRevision": 1,
+  "contentHash": "71dc12c5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_27": {
+  "contentRevision": 1,
+  "contentHash": "f367473d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_28": {
+  "contentRevision": 1,
+  "contentHash": "f8ee620c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_29": {
+  "contentRevision": 1,
+  "contentHash": "dad9ef00",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_30": {
+  "contentRevision": 1,
+  "contentHash": "49773367",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_31": {
+  "contentRevision": 1,
+  "contentHash": "9f985a47",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_32": {
+  "contentRevision": 1,
+  "contentHash": "108496d2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.6
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_33": {
+  "contentRevision": 1,
+  "contentHash": "ce88c441",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_34": {
+  "contentRevision": 1,
+  "contentHash": "d170b78e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_35": {
+  "contentRevision": 1,
+  "contentHash": "cf6996dc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z07_36": {
+  "contentRevision": 1,
+  "contentHash": "697dfdb2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_37": {
+  "contentRevision": 1,
+  "contentHash": "a1e4117b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_38": {
+  "contentRevision": 1,
+  "contentHash": "e34cf278",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 9.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_39": {
+  "contentRevision": 1,
+  "contentHash": "84eae377",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_40": {
+  "contentRevision": 1,
+  "contentHash": "e9eab25f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z07_41": {
+  "contentRevision": 1,
+  "contentHash": "8f53ce2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_42": {
+  "contentRevision": 1,
+  "contentHash": "578459ae",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_43": {
+  "contentRevision": 1,
+  "contentHash": "bc1afa6b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z07_44": {
+  "contentRevision": 1,
+  "contentHash": "d84c9bdb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_45": {
+  "contentRevision": 1,
+  "contentHash": "274ace2d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z07_46": {
+  "contentRevision": 1,
+  "contentHash": "b4f5d82a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.9
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_47": {
+  "contentRevision": 1,
+  "contentHash": "32e6a245",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_48": {
+  "contentRevision": 1,
+  "contentHash": "d0ee375e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_49": {
+  "contentRevision": 1,
+  "contentHash": "cf9fe0f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 12.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z07_50": {
+  "contentRevision": 1,
+  "contentHash": "a34d48ad",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_01": {
+  "contentRevision": 1,
+  "contentHash": "ddf01a5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.6
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_02": {
+  "contentRevision": 1,
+  "contentHash": "99089db9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_03": {
+  "contentRevision": 1,
+  "contentHash": "2f7201d9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_04": {
+  "contentRevision": 1,
+  "contentHash": "82574222",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_05": {
+  "contentRevision": 1,
+  "contentHash": "370bd76",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_06": {
+  "contentRevision": 1,
+  "contentHash": "8aeab9db",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_07": {
+  "contentRevision": 1,
+  "contentHash": "b8c99f32",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_08": {
+  "contentRevision": 1,
+  "contentHash": "3a94832b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_09": {
+  "contentRevision": 1,
+  "contentHash": "29c8676f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_10": {
+  "contentRevision": 1,
+  "contentHash": "8b9d34c7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_11": {
+  "contentRevision": 1,
+  "contentHash": "c43e897f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_12": {
+  "contentRevision": 1,
+  "contentHash": "2d57c69b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_13": {
+  "contentRevision": 1,
+  "contentHash": "b5e53bfc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_14": {
+  "contentRevision": 1,
+  "contentHash": "eaad8111",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.8
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_15": {
+  "contentRevision": 1,
+  "contentHash": "fbbbddd6",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_16": {
+  "contentRevision": 1,
+  "contentHash": "ad151f73",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_17": {
+  "contentRevision": 1,
+  "contentHash": "20f4e841",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_18": {
+  "contentRevision": 1,
+  "contentHash": "b3896292",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_19": {
+  "contentRevision": 1,
+  "contentHash": "3c2e5bd4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_20": {
+  "contentRevision": 1,
+  "contentHash": "b3aaa5bb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_21": {
+  "contentRevision": 1,
+  "contentHash": "b8e9032f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_22": {
+  "contentRevision": 1,
+  "contentHash": "257adf3d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_23": {
+  "contentRevision": 1,
+  "contentHash": "cc452794",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_24": {
+  "contentRevision": 1,
+  "contentHash": "c8fe6318",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_25": {
+  "contentRevision": 1,
+  "contentHash": "e3b77e4e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_26": {
+  "contentRevision": 1,
+  "contentHash": "fdf2cd70",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_27": {
+  "contentRevision": 1,
+  "contentHash": "843b70df",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_28": {
+  "contentRevision": 1,
+  "contentHash": "66ca4c34",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_29": {
+  "contentRevision": 1,
+  "contentHash": "b3d3644",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_30": {
+  "contentRevision": 1,
+  "contentHash": "bb300497",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_31": {
+  "contentRevision": 1,
+  "contentHash": "dc767d9d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.7
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_32": {
+  "contentRevision": 1,
+  "contentHash": "6cd2c2be",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.3
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_33": {
+  "contentRevision": 1,
+  "contentHash": "f67378af",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_34": {
+  "contentRevision": 1,
+  "contentHash": "d6a9c2bf",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.9
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_35": {
+  "contentRevision": 1,
+  "contentHash": "ba448002",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_36": {
+  "contentRevision": 1,
+  "contentHash": "6e082ce2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_37": {
+  "contentRevision": 1,
+  "contentHash": "1063b741",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_38": {
+  "contentRevision": 1,
+  "contentHash": "57d84f92",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_39": {
+  "contentRevision": 1,
+  "contentHash": "755f7213",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_40": {
+  "contentRevision": 1,
+  "contentHash": "1eb3af0d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_41": {
+  "contentRevision": 1,
+  "contentHash": "7d9a8e98",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_42": {
+  "contentRevision": 1,
+  "contentHash": "eb3b82b2",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_43": {
+  "contentRevision": 1,
+  "contentHash": "84390d0d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_44": {
+  "contentRevision": 1,
+  "contentHash": "d1b69e0",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_45": {
+  "contentRevision": 1,
+  "contentHash": "18a03fd1",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_46": {
+  "contentRevision": 1,
+  "contentHash": "baa53e2d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.7
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z08_47": {
+  "contentRevision": 1,
+  "contentHash": "c5843f99",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_48": {
+  "contentRevision": 1,
+  "contentHash": "94ce2f19",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_49": {
+  "contentRevision": 1,
+  "contentHash": "16ba7f20",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z08_50": {
+  "contentRevision": 1,
+  "contentHash": "5e066c68",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_01": {
+  "contentRevision": 1,
+  "contentHash": "b2951827",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_02": {
+  "contentRevision": 1,
+  "contentHash": "49220d34",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_03": {
+  "contentRevision": 1,
+  "contentHash": "17d8de0a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_04": {
+  "contentRevision": 1,
+  "contentHash": "8d7abf46",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_05": {
+  "contentRevision": 1,
+  "contentHash": "f7df40a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_06": {
+  "contentRevision": 1,
+  "contentHash": "3aea5ca",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_07": {
+  "contentRevision": 1,
+  "contentHash": "e9f2caf0",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_08": {
+  "contentRevision": 1,
+  "contentHash": "500c0bd0",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.8
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_09": {
+  "contentRevision": 1,
+  "contentHash": "3f4a71aa",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_10": {
+  "contentRevision": 1,
+  "contentHash": "9b3af34e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_11": {
+  "contentRevision": 1,
+  "contentHash": "957bf9cc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_12": {
+  "contentRevision": 1,
+  "contentHash": "8f42956",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_13": {
+  "contentRevision": 1,
+  "contentHash": "3af4e2ef",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_14": {
+  "contentRevision": 1,
+  "contentHash": "2ef9965",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_15": {
+  "contentRevision": 1,
+  "contentHash": "4d2057fe",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_16": {
+  "contentRevision": 1,
+  "contentHash": "874ac670",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_17": {
+  "contentRevision": 1,
+  "contentHash": "7436b27a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_18": {
+  "contentRevision": 1,
+  "contentHash": "e6946d33",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_19": {
+  "contentRevision": 1,
+  "contentHash": "1f3f0de0",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_20": {
+  "contentRevision": 1,
+  "contentHash": "310ed07c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_21": {
+  "contentRevision": 1,
+  "contentHash": "8d2e0cc9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_22": {
+  "contentRevision": 1,
+  "contentHash": "aeeaa54e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_23": {
+  "contentRevision": 1,
+  "contentHash": "487319dc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_24": {
+  "contentRevision": 1,
+  "contentHash": "4de8884a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_25": {
+  "contentRevision": 1,
+  "contentHash": "961a08d6",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_26": {
+  "contentRevision": 1,
+  "contentHash": "f9099106",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_27": {
+  "contentRevision": 1,
+  "contentHash": "ffac645a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_28": {
+  "contentRevision": 1,
+  "contentHash": "4fefa456",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_29": {
+  "contentRevision": 1,
+  "contentHash": "bcee4410",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_30": {
+  "contentRevision": 1,
+  "contentHash": "6a7c6f6f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_31": {
+  "contentRevision": 1,
+  "contentHash": "5479c717",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_32": {
+  "contentRevision": 1,
+  "contentHash": "9aaf3d98",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_33": {
+  "contentRevision": 1,
+  "contentHash": "cb7948a8",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_34": {
+  "contentRevision": 1,
+  "contentHash": "e27e156e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_35": {
+  "contentRevision": 1,
+  "contentHash": "da4a1fc9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_36": {
+  "contentRevision": 1,
+  "contentHash": "94690c7f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_37": {
+  "contentRevision": 1,
+  "contentHash": "3da1d8eb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_38": {
+  "contentRevision": 1,
+  "contentHash": "caa3ed73",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 11.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_39": {
+  "contentRevision": 1,
+  "contentHash": "294d27f3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_40": {
+  "contentRevision": 1,
+  "contentHash": "2a1e7f5",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 9
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_41": {
+  "contentRevision": 1,
+  "contentHash": "947f525e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_42": {
+  "contentRevision": 1,
+  "contentHash": "57f694d0",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_43": {
+  "contentRevision": 1,
+  "contentHash": "2bbfe22",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z09_44": {
+  "contentRevision": 1,
+  "contentHash": "94ad12d9",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.4
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_45": {
+  "contentRevision": 1,
+  "contentHash": "6cb4e22a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_46": {
+  "contentRevision": 1,
+  "contentHash": "4af1a825",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_47": {
+  "contentRevision": 1,
+  "contentHash": "41caf8c4",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_48": {
+  "contentRevision": 1,
+  "contentHash": "3a7ac28",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.2
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_49": {
+  "contentRevision": 1,
+  "contentHash": "655acb3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z09_50": {
+  "contentRevision": 1,
+  "contentHash": "465ff65a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_01": {
+  "contentRevision": 1,
+  "contentHash": "5c7b2d83",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_02": {
+  "contentRevision": 1,
+  "contentHash": "a80515a7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_03": {
+  "contentRevision": 1,
+  "contentHash": "5b442454",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_04": {
+  "contentRevision": 1,
+  "contentHash": "47263947",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.5
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_05": {
+  "contentRevision": 1,
+  "contentHash": "9961f18f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_06": {
+  "contentRevision": 1,
+  "contentHash": "e10c7b39",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 10
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_07": {
+  "contentRevision": 1,
+  "contentHash": "606f1d59",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 8.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_08": {
+  "contentRevision": 1,
+  "contentHash": "a59e0724",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_09": {
+  "contentRevision": 1,
+  "contentHash": "12571f73",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_10": {
+  "contentRevision": 1,
+  "contentHash": "b4fb9e5a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_11": {
+  "contentRevision": 1,
+  "contentHash": "39ad4deb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_12": {
+  "contentRevision": 1,
+  "contentHash": "8ea4fa73",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_13": {
+  "contentRevision": 1,
+  "contentHash": "3138b545",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_14": {
+  "contentRevision": 1,
+  "contentHash": "3304fe35",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_15": {
+  "contentRevision": 1,
+  "contentHash": "b4dc7d20",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_16": {
+  "contentRevision": 1,
+  "contentHash": "53d98a5a",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_17": {
+  "contentRevision": 1,
+  "contentHash": "7c8e9971",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_18": {
+  "contentRevision": 1,
+  "contentHash": "74903d90",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 15.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_19": {
+  "contentRevision": 1,
+  "contentHash": "a53be5bc",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_20": {
+  "contentRevision": 1,
+  "contentHash": "e4724e24",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 9
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.8
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_21": {
+  "contentRevision": 1,
+  "contentHash": "f6eb0c1f",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.3
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_22": {
+  "contentRevision": 1,
+  "contentHash": "41af0599",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_23": {
+  "contentRevision": 1,
+  "contentHash": "2d403a08",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_24": {
+  "contentRevision": 1,
+  "contentHash": "ceec980b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_25": {
+  "contentRevision": 1,
+  "contentHash": "b7f4444c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_26": {
+  "contentRevision": 1,
+  "contentHash": "1e8ffb4b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 12.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_27": {
+  "contentRevision": 1,
+  "contentHash": "590b2d37",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_28": {
+  "contentRevision": 1,
+  "contentHash": "5d01f034",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_29": {
+  "contentRevision": 1,
+  "contentHash": "389ed833",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_30": {
+  "contentRevision": 1,
+  "contentHash": "5bf6c26d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_31": {
+  "contentRevision": 1,
+  "contentHash": "1001cba3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_32": {
+  "contentRevision": 1,
+  "contentHash": "c2cb01b6",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 7.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_33": {
+  "contentRevision": 1,
+  "contentHash": "ae1ad3f7",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_34": {
+  "contentRevision": 1,
+  "contentHash": "e41524e3",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.2
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_35": {
+  "contentRevision": 1,
+  "contentHash": "df046707",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_36": {
+  "contentRevision": 1,
+  "contentHash": "d618f29b",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_37": {
+  "contentRevision": 1,
+  "contentHash": "4401a463",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_38": {
+  "contentRevision": 1,
+  "contentHash": "7ca7cd08",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 6.4
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_39": {
+  "contentRevision": 1,
+  "contentHash": "89a6758d",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 6
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_40": {
+  "contentRevision": 1,
+  "contentHash": "ba1eaf6c",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 7
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 3.1
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_41": {
+  "contentRevision": 1,
+  "contentHash": "5d9bb227",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_42": {
+  "contentRevision": 1,
+  "contentHash": "e21e983e",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_43": {
+  "contentRevision": 1,
+  "contentHash": "7447b9eb",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 5
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.8
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_44": {
+  "contentRevision": 1,
+  "contentHash": "5f7ee1bf",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 8
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 4.7
+  },
+  "issues": [
+   "warn:goals_3",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_45": {
+  "contentRevision": 1,
+  "contentHash": "38456c29",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 5.1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_46": {
+  "contentRevision": 1,
+  "contentHash": "393305aa",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 14.5
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_47": {
+  "contentRevision": 1,
+  "contentHash": "bc19ded",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 3
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 13.6
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_48": {
+  "contentRevision": 1,
+  "contentHash": "d31c71a6",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 12.9
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off"
+  ]
+ },
+ "z10_49": {
+  "contentRevision": 1,
+  "contentHash": "b8f2a210",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 4
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 1
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
+ },
+ "z10_50": {
+  "contentRevision": 1,
+  "contentHash": "4f0581ff",
+  "counts": {
+   "error": 0,
+   "block": 0,
+   "warn": 2
+  },
+  "sim": {
+   "seeds": 20,
+   "initOk": 20,
+   "initFail": [],
+   "avgLegalMoves": 2.7
+  },
+  "issues": [
+   "warn:cut_off",
+   "warn:few_moves"
+  ]
  }
 }
