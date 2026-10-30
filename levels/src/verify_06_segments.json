@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "levelId": "verify_06_segments",
+  "contentRevision": 1,
+  "rulesetVersion": "jelly_rules_v1",
+  "displayName": "验证 6 · 分段与出生口",
+  "chapterId": "verify",
+  "board": {
+    "rows": 7,
+    "cols": 7,
+    "playableMask": [
+      "1111111",
+      "1111111",
+      "1111111",
+      "1100011",
+      "1111111",
+      "1111111",
+      "1111111"
+    ],
+    "gravity": "down",
+    "spawners": [
+      {
+        "row": 0,
+        "col": 0
+      },
+      {
+        "row": 0,
+        "col": 1
+      },
+      {
+        "row": 0,
+        "col": 2
+      },
+      {
+        "row": 0,
+        "col": 3
+      },
+      {
+        "row": 0,
+        "col": 4
+      },
+      {
+        "row": 0,
+        "col": 5
+      },
+      {
+        "row": 0,
+        "col": 6
+      },
+      {
+        "row": 4,
+        "col": 2
+      },
+      {
+        "row": 4,
+        "col": 3
+      },
+      {
+        "row": 4,
+        "col": 4
+      }
+    ],
+    "exits": []
+  },
+  "initial": {
+    "fillMode": "seeded_random_unassigned",
+    "allowInitialMatches": false,
+    "placements": [
+      {
+        "layer": "occupant",
+        "row": 5,
+        "col": 3,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 2,
+        "typeId": "cookie_crate",
+        "hp": 1
+      },
+      {
+        "layer": "occupant",
+        "row": 6,
+        "col": 4,
+        "typeId": "cookie_crate",
+        "hp": 1
+      }
+    ]
+  },
+  "spawnPool": [
+    {
+      "typeId": "jelly_squid",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fugu",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_jellyfish",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_bear",
+      "weight": 1
+    },
+    {
+      "typeId": "jelly_fig",
+      "weight": 1
+    }
+  ],
+  "moveLimit": 24,
+  "goals": [
+    {
+      "type": "clear_obstacle",
+      "typeId": "cookie_crate",
+      "scope": "all"
+    },
+    {
+      "type": "collect_piece",
+      "typeId": "jelly_bear",
+      "count": 10
+    }
+  ],
+  "tools": {
+    "hammer": 3,
+    "swap": 3,
+    "shuffle": 3
+  },
+  "scoring": {
+    "stars": [
+      17300,
+      19800,
+      23900
+    ],
+    "scoreVersion": "jelly_score_v1",
+    "starsBasis": "goal_greedy wins n=93, seeds 1–100",
+    "starsMethod": "bot_greedy_quantiles_v1",
+    "starsStatus": "provisional_bot_derived"
+  },
+  "themeId": "cream_garden",
+  "editorNotes": {
+    "designIntent": "第 3 行中间空洞把 2–4 列切成上下两段，下段顶端 (4,2)(4,3)(4,4) 是内部出生口；(5,3) 箱子下方的 (6,3) 在开箱前不补子",
+    "intendedDifficulty": "unrated",
+    "validationStatus": "structure_checked_unplaytested"
+  }
+}
